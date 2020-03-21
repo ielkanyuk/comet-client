@@ -1,0 +1,20 @@
+{
+  "name": "comet-client",
+  "version": "1.0.0",
+  "description": "JavaScript service for work with comet-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ielkanyuk/comet-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ielkanyuk/comet-client/issues"
+  },
+  "homepage": "https://github.com/ielkanyuk/comet-client#readme"
+}
